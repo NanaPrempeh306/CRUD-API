@@ -1,0 +1,11 @@
+node_modules
+misc
+.env
+authors.rest
+api.rest
+.eslintrc.js
+
+
+populateDB/images
+populateDB/books.js
+populateDB/authors.js
